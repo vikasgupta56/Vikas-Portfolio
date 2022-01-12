@@ -751,8 +751,6 @@ body {
 .social-icons svg {
     color: #fff;
     position: absolute;
-    top: 14px;
-    left: 15px;
     transition: all 265ms ease-out;
 }
 
@@ -761,7 +759,10 @@ body {
 }
 
 .social-icons a {
-    display: inline-block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
 }
 
 .social-icons a:before {
