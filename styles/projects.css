@@ -1,0 +1,36 @@
+@media (max-width:425px) {
+#projp{
+    margin-top: 30px;
+    font-size: 35px;
+    margin-bottom: 2px;
+    padding-top: 28px;
+}
+.projectcontainer{
+    flex-direction: column;
+    align-items: center;
+    margin: 5px auto;
+    padding-bottom: 10px;
+    margin-top: 45px;
+}
+.project{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    height: 270px;
+    width: 280px;
+    margin: 20px auto;
+}
+.projhead{
+    font-size: 20px;
+    line-height: 24px;
+}
+.projjflex span{
+    font-size: 21px;
+}
+.projbtn{
+    border: 1px solid #e31b6d;
+    border-radius: 0px;
+    height: 40px;
+    font-size: 20px;
+    width: 120px;
+    margin-top: 10px;
+}
+}
