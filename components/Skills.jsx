@@ -57,13 +57,13 @@ const Skills = () => {
                 <div id="myimg" data-aos="fade-right" data-aos-duration="1150">
                     <div id="imghex">
                         <img src='/vikaspic.jpeg' alt='vikas' /></div>
-                    <h1>Hii...What's up??...Btw I am...</h1>
+                    <h1>Hii...What&#39;s up??...Btw I am...</h1>
                     <p className="impara">..a Full stack web developer from Mumbai..I have seious passion</p>
                     <p className="impara">for my work.I love to design web pages with creative UI effects,</p>
                     <p className="impara" id="lastmar"> animations, and dynamic user experiences.</p>
                     <Link href="#contactme">
                     <a id="sa">
-                        <p id="special">Lets create something special</p>
+                        <p id="special">Let&#39;s create something special</p>
                     </a>
                     </Link>
                     <a id="resume" href='/Vikas-Resume.pdf' download><p>Download my resume</p></a>

@@ -26,7 +26,7 @@ const Home = () => {
                         <div className="flex">
                             <p id="infop">Hello,I'm<span id="pinkcolor"> Vikas Gupta</span></p>
                         </div>
-                        <p id="ip">I'm a full-stack Web Developer</p>
+                        <p id="ip">I&#39;m a full-stack Web Developer</p>
                         <Link href='/#col'>
                             <a><button id="btnn">View my work
                                 <IoMdArrowRoundForward id="righta" style={{ marginLeft: "9px" }} />

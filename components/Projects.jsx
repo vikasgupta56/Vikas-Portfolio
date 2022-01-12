@@ -43,7 +43,7 @@ const Projects = () => {
                                     <div className="project" key={index} style={{ background: `url(${project.bgimg})` }} data-aos="fade-up" data-aos-duration="1400">
                                         <div className="whitediv" id={index}>
                                             <div className="projjflex"><h1 className="projhead">{project.title}<span>{project.span}</span></h1></div>
-                                            <a href={project.url} target="_blank"><button className="projbtn">View Site</button></a>
+                                            <a href={project.url} target="_blank" rel="noreferrer"><button className="projbtn">View Site</button></a>
                                         </div>
                                     </div>
                                 
