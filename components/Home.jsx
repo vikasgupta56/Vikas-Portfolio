@@ -24,7 +24,7 @@ const Home = () => {
                 <div className="homeflex">
                     <div id="info">
                         <div className="flex">
-                            <p id="infop">Hello,I'm<span id="pinkcolor"> Vikas Gupta</span></p>
+                            <p id="infop">Hello,I&#39;m<span id="pinkcolor"> Vikas Gupta</span></p>
                         </div>
                         <p id="ip">I&#39;m a full-stack Web Developer</p>
                         <Link href='/#col'>
